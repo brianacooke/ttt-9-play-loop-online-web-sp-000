@@ -36,8 +36,8 @@ def turn(board)
 end
 
 def play(board[" ", " ", " ", " ", " ", " ", " ", " ", " "])
-  turn = 0
-  while turn < 9
-    turn += 1
+  board = 0
+  while board < 9
+    board += 1
 end
 end
