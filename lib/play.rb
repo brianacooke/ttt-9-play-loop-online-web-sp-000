@@ -35,11 +35,4 @@ def turn(board)
   end
 end
 
-def play(board)
-  board = 1
-  loop do
-  until board < 9
-    board += 1
-    puts "Your turn"
-end
-end
+=
