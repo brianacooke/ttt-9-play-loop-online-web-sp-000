@@ -40,5 +40,6 @@ def play(board)
   loop do
   until turn < 9
     turn += 1
+    puts "Your turn"
 end
 end
